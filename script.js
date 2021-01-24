@@ -1,4 +1,3 @@
-
   const MEDIA_QUERY_TO_MATCH = '(max-width: 992px)';
   const carousels = document.querySelectorAll('.Carousel');
 
